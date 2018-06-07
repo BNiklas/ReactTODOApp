@@ -1,0 +1,8 @@
+body{
+    padding:0;
+    margin:0;
+}
+#container{
+    background-color: #EEE;
+    padding-bottom:10px;
+}
